@@ -8,13 +8,16 @@ You can download directly by clicking [Stardew Valley Assets.rar](Stardew Valley
 
 ---
 
-## 📋 资源核心信息
-## 📋 Core Resource Information
-| 项目 | 详情 | | Item | Details |
-|------|------| |------|------|
-| 资源名称 | 星露谷物语全量游戏素材包 | | Resource Name | Stardew Valley Complete Game Assets Pack |
-| 资源内容 | 地图（场景/地形/建筑）、NPC（立绘/动作帧）、物品（道具/装备/消耗品）等全量游戏内图片资源 | | Resource Content | In-game image resources including maps (scenes/terrain/buildings), NPCs (sprites/action frames), items (props/equipment/consumables), etc. |
-| 适用人群 | 独立游戏开发者、星露谷物语核心玩家、游戏美术设计师、MOD创作者 | | Target Users | Indie game developers, Stardew Valley core players, game artists, MOD creators |
+✅ 完整资源清单：
+✅ Complete Asset List:
+- 地图资源：包含农场、小镇、矿山、森林等全部场景地图及地形元素
+- Map assets: All scene maps and terrain elements including farms, towns, mines, forests, etc.
+- NPC资源：所有角色立绘、表情帧、动作序列图
+- NPC assets: Character sprites, expression frames, and action sequence images
+- 物品资源：道具、作物、工具、装备等图标及细节图
+- Item assets: Icons and detailed images of props, crops, tools, equipment, etc.
+- 界面资源：菜单、对话框、UI元素等基础设计素材
+- UI assets: Basic design materials for menus, dialog boxes, and UI elements
 
 ---
 
